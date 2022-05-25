@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">karad1</string>
+    <string name="exclusive_clothing_deals">exclusive_clothing_deals</string>
+    <string name="hot_deals">hot_deals</string>
+    <string name="select_category">Select Category</string>
+    <string name="product_details">Product Details</string>
+    <string name="price">price</string>
+    <string name="product_discription">Product Discription</string>
+    <string name="add_to_cart">Add to Cart</string>
+</resources>
